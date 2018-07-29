@@ -243,6 +243,18 @@
     "db_size": 84906
   },
   {
+    "name": "Bash",
+    "slug": "bash",
+    "type": "bash",
+    "links": {
+      "home": "https://www.gnu.org/software/bash/",
+      "code": "http://git.savannah.gnu.org/cgit/bash.git"
+    },
+    "release": "4.4",
+    "mtime": 1532899814,
+    "db_size": 780345
+  },
+  {
     "name": "Bluebird",
     "slug": "bluebird",
     "type": "simple",
@@ -1420,6 +1432,17 @@
     "release": "2.1",
     "mtime": 1500847393,
     "db_size": 4249116
+  },
+  {
+    "name": "Graphite",
+    "slug": "graphite",
+    "type": "graphite",
+    "links": {
+      "code": "https://github.com/graphite-project/graphite-web"
+    },
+    "release": "1.1.3",
+    "mtime": 1532902325,
+    "db_size": 446680
   },
   {
     "name": "Grunt",
@@ -2653,6 +2676,18 @@
     "release": "2.0.3",
     "mtime": 1521915454,
     "db_size": 78298
+  },
+  {
+    "name": "Pygame",
+    "slug": "pygame",
+    "type": "simple",
+    "links": {
+      "home": "https://www.pygame.org/",
+      "code": "https://github.com/pygame/pygame"
+    },
+    "release": "1.9.4",
+    "mtime": 1532898876,
+    "db_size": 639168
   },
   {
     "name": "Python",
