@@ -777,6 +777,32 @@
     "db_size": 653806
   },
   {
+    "name": "Dart",
+    "slug": "dart~2",
+    "type": "dart",
+    "links": {
+      "home": "https://www.dartlang.org/",
+      "code": "https://github.com/dart-lang/sdk"
+    },
+    "version": "2",
+    "release": "2.0.0",
+    "mtime": 1533592653,
+    "db_size": 30849359
+  },
+  {
+    "name": "Dart",
+    "slug": "dart~1",
+    "type": "dart",
+    "links": {
+      "home": "https://www.dartlang.org/",
+      "code": "https://github.com/dart-lang/sdk"
+    },
+    "version": "1",
+    "release": "1.24.3",
+    "mtime": 1533594583,
+    "db_size": 31726721
+  },
+  {
     "name": "Django",
     "slug": "django~2.0",
     "type": "sphinx",
@@ -2752,6 +2778,45 @@
     "release": "1.5.1",
     "mtime": 1509302829,
     "db_size": 29687
+  },
+  {
+    "name": "Qt",
+    "slug": "qt~5.11",
+    "type": "qt",
+    "links": {
+      "home": "https://www.qt.io",
+      "code": "https://code.qt.io/cgit/"
+    },
+    "version": "5.11",
+    "release": "5.11",
+    "mtime": 1534110745,
+    "db_size": 78116282
+  },
+  {
+    "name": "Qt",
+    "slug": "qt~5.9",
+    "type": "qt",
+    "links": {
+      "home": "https://www.qt.io",
+      "code": "https://code.qt.io/cgit/"
+    },
+    "version": "5.9",
+    "release": "5.9",
+    "mtime": 1534111533,
+    "db_size": 75280911
+  },
+  {
+    "name": "Qt",
+    "slug": "qt~5.6",
+    "type": "qt",
+    "links": {
+      "home": "https://www.qt.io",
+      "code": "https://code.qt.io/cgit/"
+    },
+    "version": "5.6",
+    "release": "5.6",
+    "mtime": 1534112349,
+    "db_size": 65762439
   },
   {
     "name": "Ramda",
