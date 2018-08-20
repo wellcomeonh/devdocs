@@ -142,9 +142,9 @@
     "links": {
       "home": "https://httpd.apache.org/"
     },
-    "release": "2.4.33",
-    "mtime": 1524923248,
-    "db_size": 3608619
+    "release": "2.4.34",
+    "mtime": 1534714926,
+    "db_size": 3628166
   },
   {
     "name": "Apache Pig",
@@ -275,9 +275,9 @@
       "code": "https://github.com/twbs/bootstrap"
     },
     "version": "4",
-    "release": "4.1.1",
-    "mtime": 1526257548,
-    "db_size": 699057
+    "release": "4.1.3",
+    "mtime": 1534716040,
+    "db_size": 701850
   },
   {
     "name": "Bootstrap",
@@ -541,6 +541,32 @@
   },
   {
     "name": "CMake",
+    "slug": "cmake~3.12",
+    "type": "sphinx_simple",
+    "links": {
+      "home": "https://cmake.org/",
+      "code": "https://cmake.org/gitweb?p=cmake.git;a=summary"
+    },
+    "version": "3.12",
+    "release": "3.12.1",
+    "mtime": 1534717180,
+    "db_size": 3544400
+  },
+  {
+    "name": "CMake",
+    "slug": "cmake~3.11",
+    "type": "sphinx_simple",
+    "links": {
+      "home": "https://cmake.org/",
+      "code": "https://cmake.org/gitweb?p=cmake.git;a=summary"
+    },
+    "version": "3.11",
+    "release": "3.11.4",
+    "mtime": 1534717159,
+    "db_size": 3365352
+  },
+  {
+    "name": "CMake",
     "slug": "cmake~3.10",
     "type": "sphinx_simple",
     "links": {
@@ -548,9 +574,9 @@
       "code": "https://cmake.org/gitweb?p=cmake.git;a=summary"
     },
     "version": "3.10",
-    "release": "3.10.1",
-    "mtime": 1515367134,
-    "db_size": 3260352
+    "release": "3.10.3",
+    "mtime": 1534717115,
+    "db_size": 3261032
   },
   {
     "name": "CMake",
@@ -714,16 +740,16 @@
       "home": "https://crystal-lang.org/",
       "code": "https://github.com/crystal-lang/crystal"
     },
-    "release": "0.25.1",
-    "mtime": 1531081933,
-    "db_size": 9776392
+    "release": "0.26.0",
+    "mtime": 1534715966,
+    "db_size": 9855759
   },
   {
     "name": "CSS",
     "slug": "css",
     "type": "mdn",
-    "mtime": 1531084156,
-    "db_size": 11172377
+    "mtime": 1534718228,
+    "db_size": 11357189
   },
   {
     "name": "D",
@@ -801,6 +827,19 @@
     "release": "1.24.3",
     "mtime": 1533594583,
     "db_size": 31726721
+  },
+  {
+    "name": "Django",
+    "slug": "django~2.1",
+    "type": "sphinx",
+    "links": {
+      "home": "https://www.djangoproject.com/",
+      "code": "https://github.com/django/django"
+    },
+    "version": "2.1",
+    "release": "2.1.0",
+    "mtime": 1534717304,
+    "db_size": 6138831
   },
   {
     "name": "Django",
@@ -948,15 +987,15 @@
     "name": "DOM",
     "slug": "dom",
     "type": "mdn",
-    "mtime": 1531093565,
-    "db_size": 30170757
+    "mtime": 1534727173,
+    "db_size": 31158963
   },
   {
     "name": "DOM Events",
     "slug": "dom_events",
     "type": "mdn",
-    "mtime": 1531084385,
-    "db_size": 1647081
+    "mtime": 1534719126,
+    "db_size": 1681862
   },
   {
     "name": "Drupal",
@@ -995,6 +1034,19 @@
     "release": "2.0.2",
     "mtime": 1531082744,
     "db_size": 1736011
+  },
+  {
+    "name": "Elixir",
+    "slug": "elixir~1.7",
+    "type": "elixir",
+    "links": {
+      "home": "https://elixir-lang.org/",
+      "code": "https://github.com/elixir-lang/elixir"
+    },
+    "version": "1.7",
+    "release": "1.7.2",
+    "mtime": 1534716723,
+    "db_size": 4948105
   },
   {
     "name": "Elixir",
@@ -1261,9 +1313,9 @@
       "home": "https://flow.org/",
       "code": "https://github.com/facebook/flow"
     },
-    "release": "0.75.0",
-    "mtime": 1531081679,
-    "db_size": 334904
+    "release": "0.79.1",
+    "mtime": 1534714964,
+    "db_size": 339892
   },
   {
     "name": "GCC",
@@ -1630,15 +1682,15 @@
     "name": "HTML",
     "slug": "html",
     "type": "mdn",
-    "mtime": 1531082980,
-    "db_size": 3933827
+    "mtime": 1534717770,
+    "db_size": 3982830
   },
   {
     "name": "HTTP",
     "slug": "http",
     "type": "mdn",
-    "mtime": 1531084508,
-    "db_size": 4397113
+    "mtime": 1534719222,
+    "db_size": 4497546
   },
   {
     "name": "Immutable.js",
@@ -1672,16 +1724,16 @@
       "home": "https://jasmine.github.io/",
       "code": "https://github.com/jasmine/jasmine"
     },
-    "release": "3.1.0",
-    "mtime": 1524924309,
-    "db_size": 86294
+    "release": "3.2.1",
+    "mtime": 1534715399,
+    "db_size": 98482
   },
   {
     "name": "JavaScript",
     "slug": "javascript",
     "type": "mdn",
-    "mtime": 1531083728,
-    "db_size": 6232575
+    "mtime": 1534718903,
+    "db_size": 5793848
   },
   {
     "name": "Jekyll",
@@ -1703,9 +1755,9 @@
       "home": "https://facebook.github.io/jest/",
       "code": "https://github.com/facebook/jest"
     },
-    "release": "23.3.0",
-    "mtime": 1531081537,
-    "db_size": 520688
+    "release": "23.5.0",
+    "mtime": 1534715514,
+    "db_size": 520890
   },
   {
     "name": "jQuery",
@@ -1746,6 +1798,32 @@
     "release": "3.5.5",
     "mtime": 1517758919,
     "db_size": 283935
+  },
+  {
+    "name": "Julia",
+    "slug": "julia~1.0",
+    "type": "julia",
+    "links": {
+      "home": "https://julialang.org/",
+      "code": "https://github.com/JuliaLang/julia"
+    },
+    "version": "1.0",
+    "release": "1.0.0",
+    "mtime": 1534716993,
+    "db_size": 2353339
+  },
+  {
+    "name": "Julia",
+    "slug": "julia~0.7",
+    "type": "julia",
+    "links": {
+      "home": "https://julialang.org/",
+      "code": "https://github.com/JuliaLang/julia"
+    },
+    "version": "0.7",
+    "release": "0.7.0",
+    "mtime": 1534716955,
+    "db_size": 2352905
   },
   {
     "name": "Julia",
@@ -1814,9 +1892,9 @@
       "code": "https://github.com/laravel/laravel"
     },
     "version": "5.6",
-    "release": "5.6.12",
-    "mtime": 1521387069,
-    "db_size": 19191967
+    "release": "5.6.33",
+    "mtime": 1534715526,
+    "db_size": 19686189
   },
   {
     "name": "Laravel",
@@ -2052,6 +2130,19 @@
   },
   {
     "name": "Marionette.js",
+    "slug": "marionette~4",
+    "type": "marionette",
+    "links": {
+      "home": "https://marionettejs.com/",
+      "code": "https://github.com/marionettejs/backbone.marionette"
+    },
+    "version": "4",
+    "release": "4.0.0",
+    "mtime": 1534716826,
+    "db_size": 397364
+  },
+  {
+    "name": "Marionette.js",
     "slug": "marionette~3",
     "type": "marionette",
     "links": {
@@ -2246,9 +2337,9 @@
       "code": "https://github.com/nodejs/node"
     },
     "version": "",
-    "release": "10.6.0",
-    "mtime": 1531082202,
-    "db_size": 2629449
+    "release": "10.9.0",
+    "mtime": 1534715044,
+    "db_size": 2700544
   },
   {
     "name": "Node.js",
@@ -2259,9 +2350,9 @@
       "code": "https://github.com/nodejs/node"
     },
     "version": "8 LTS",
-    "release": "8.11.2",
-    "mtime": 1528679615,
-    "db_size": 2184150
+    "release": "8.11.4",
+    "mtime": 1534715049,
+    "db_size": 2184376
   },
   {
     "name": "Node.js",
@@ -2272,8 +2363,8 @@
       "code": "https://github.com/nodejs/node"
     },
     "version": "6 LTS",
-    "release": "6.14.2",
-    "mtime": 1528679620,
+    "release": "6.14.4",
+    "mtime": 1534715052,
     "db_size": 1612581
   },
   {
@@ -2286,7 +2377,7 @@
     },
     "version": "4 LTS",
     "release": "4.9.1",
-    "mtime": 1528679625,
+    "mtime": 1534715054,
     "db_size": 982448
   },
   {
@@ -2305,9 +2396,9 @@
       "home": "https://www.npmjs.com/",
       "code": "https://github.com/npm/npm"
     },
-    "release": "6.1.0",
-    "mtime": 1528680011,
-    "db_size": 1732141
+    "release": "6.4.0",
+    "mtime": 1534716051,
+    "db_size": 1857027
   },
   {
     "name": "NumPy",
@@ -2596,9 +2687,9 @@
       "home": "https://secure.php.net/",
       "code": "https://git.php.net/?p=php-src.git;a=summary"
     },
-    "release": "7.2.5",
-    "mtime": 1526259565,
-    "db_size": 24124470
+    "release": "7.2.9",
+    "mtime": 1534715914,
+    "db_size": 24177350
   },
   {
     "name": "PHPUnit",
@@ -2862,9 +2953,9 @@
       "home": "https://redis.io/",
       "code": "https://github.com/antirez/redis"
     },
-    "release": "4.0.9",
-    "mtime": 1524926305,
-    "db_size": 637699
+    "release": "4.0.11",
+    "mtime": 1534716669,
+    "db_size": 699826
   },
   {
     "name": "Redux",
@@ -3090,9 +3181,9 @@
       "home": "https://www.rust-lang.org/",
       "code": "https://github.com/rust-lang/rust"
     },
-    "release": "1.26.0",
-    "mtime": 1526257262,
-    "db_size": 54870091
+    "release": "1.28.0",
+    "mtime": 1534718413,
+    "db_size": 62075516
   },
   {
     "name": "Sass",
@@ -3248,8 +3339,8 @@
     "name": "Support Tables",
     "slug": "browser_support_tables",
     "type": "support_tables",
-    "mtime": 1531082971,
-    "db_size": 28577389
+    "mtime": 1534719074,
+    "db_size": 29022916
   },
   {
     "name": "SVG",
@@ -3455,9 +3546,9 @@
       "home": "https://www.typescriptlang.org",
       "code": "https://github.com/Microsoft/TypeScript"
     },
-    "release": "2.9.0",
-    "mtime": 1528680433,
-    "db_size": 1299587
+    "release": "3.0.1",
+    "mtime": 1534716438,
+    "db_size": 1346824
   },
   {
     "name": "Underscore.js",
@@ -3529,9 +3620,9 @@
       "code": "https://github.com/webpack/webpack"
     },
     "version": "",
-    "release": "4.12.0",
-    "mtime": 1528680127,
-    "db_size": 3725340
+    "release": "4.16.5",
+    "mtime": 1534716785,
+    "db_size": 3702481
   },
   {
     "name": "webpack",
@@ -3561,9 +3652,9 @@
       "home": "https://yarnpkg.com/",
       "code": "https://github.com/yarnpkg/yarn"
     },
-    "release": "1.7.0",
-    "mtime": 1528679882,
-    "db_size": 199356
+    "release": "1.9.4",
+    "mtime": 1534716479,
+    "db_size": 200474
   },
   {
     "name": "Yii",
