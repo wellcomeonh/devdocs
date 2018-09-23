@@ -334,15 +334,15 @@
     "name": "C",
     "slug": "c",
     "type": "c",
-    "mtime": 1521903579,
-    "db_size": 3831357
+    "mtime": 1537741751,
+    "db_size": 3904239
   },
   {
     "name": "C++",
     "slug": "cpp",
     "type": "c",
-    "mtime": 1521903410,
-    "db_size": 21391403
+    "mtime": 1537742326,
+    "db_size": 24233321
   },
   {
     "name": "CakePHP",
@@ -1044,9 +1044,9 @@
       "code": "https://github.com/elixir-lang/elixir"
     },
     "version": "1.7",
-    "release": "1.7.2",
-    "mtime": 1534716723,
-    "db_size": 4948105
+    "release": "1.7.3",
+    "mtime": 1537729830,
+    "db_size": 2808801
   },
   {
     "name": "Elixir",
@@ -1529,6 +1529,18 @@
     "release": "1.0.1",
     "mtime": 1500740124,
     "db_size": 183508
+  },
+  {
+    "name": "Handlebars.js",
+    "slug": "handlebars",
+    "type": "simple",
+    "links": {
+      "home": "https://handlebarsjs.com/",
+      "code": "https://github.com/wycats/handlebars.js/"
+    },
+    "release": "4.0.12",
+    "mtime": 1537740907,
+    "db_size": 83745
   },
   {
     "name": "Haskell",
@@ -2793,6 +2805,17 @@
     "release": "2.0.3",
     "mtime": 1521915454,
     "db_size": 78298
+  },
+  {
+    "name": "Puppeteer",
+    "slug": "puppeteer",
+    "type": "github",
+    "links": {
+      "code": "https://github.com/GoogleChrome/puppeteer"
+    },
+    "release": "1.8.0",
+    "mtime": 1537740345,
+    "db_size": 318656
   },
   {
     "name": "Pygame",
