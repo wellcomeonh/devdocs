@@ -149,7 +149,7 @@
   {
     "name": "Apache Pig",
     "slug": "apache_pig~0.17",
-    "type": "apache_pig",
+    "type": "simple",
     "links": {
       "home": "https://pig.apache.org/"
     },
@@ -161,7 +161,7 @@
   {
     "name": "Apache Pig",
     "slug": "apache_pig~0.16",
-    "type": "apache_pig",
+    "type": "simple",
     "links": {
       "home": "https://pig.apache.org/"
     },
@@ -173,7 +173,7 @@
   {
     "name": "Apache Pig",
     "slug": "apache_pig~0.15",
-    "type": "apache_pig",
+    "type": "simple",
     "links": {
       "home": "https://pig.apache.org/"
     },
@@ -185,7 +185,7 @@
   {
     "name": "Apache Pig",
     "slug": "apache_pig~0.14",
-    "type": "apache_pig",
+    "type": "simple",
     "links": {
       "home": "https://pig.apache.org/"
     },
@@ -197,7 +197,7 @@
   {
     "name": "Apache Pig",
     "slug": "apache_pig~0.13",
-    "type": "apache_pig",
+    "type": "simple",
     "links": {
       "home": "https://pig.apache.org/"
     },
@@ -321,7 +321,7 @@
   {
     "name": "Bower",
     "slug": "bower",
-    "type": "bower",
+    "type": "simple",
     "links": {
       "home": "https://bower.io/",
       "code": "https://github.com/bower/bower"
@@ -477,7 +477,7 @@
   {
     "name": "Chai",
     "slug": "chai",
-    "type": "chai",
+    "type": "simple",
     "links": {
       "home": "http://chaijs.com/",
       "code": "https://github.com/chaijs/chai"
@@ -658,7 +658,7 @@
   {
     "name": "CodeceptJS",
     "slug": "codeceptjs",
-    "type": "codeceptjs",
+    "type": "simple",
     "links": {
       "home": "https://codecept.io/",
       "code": "https://github.com/codeception/codeceptjs"
@@ -909,7 +909,7 @@
   {
     "name": "Docker",
     "slug": "docker~17",
-    "type": "docker",
+    "type": "simple",
     "links": {
       "home": "https://docker.com/",
       "code": "https://github.com/docker/docker"
@@ -922,7 +922,7 @@
   {
     "name": "Docker",
     "slug": "docker~1.13",
-    "type": "docker",
+    "type": "simple",
     "links": {
       "home": "https://docker.com/",
       "code": "https://github.com/docker/docker"
@@ -935,7 +935,7 @@
   {
     "name": "Docker",
     "slug": "docker~1.12",
-    "type": "docker",
+    "type": "simple",
     "links": {
       "home": "https://docker.com/",
       "code": "https://github.com/docker/docker"
@@ -948,7 +948,7 @@
   {
     "name": "Docker",
     "slug": "docker~1.11",
-    "type": "docker",
+    "type": "simple",
     "links": {
       "home": "https://docker.com/",
       "code": "https://github.com/docker/docker"
@@ -961,7 +961,7 @@
   {
     "name": "Docker",
     "slug": "docker~1.10",
-    "type": "docker",
+    "type": "simple",
     "links": {
       "home": "https://docker.com/",
       "code": "https://github.com/docker/docker"
@@ -1026,7 +1026,7 @@
   {
     "name": "Electron",
     "slug": "electron",
-    "type": "electron",
+    "type": "simple",
     "links": {
       "home": "https://electronjs.org/",
       "code": "https://github.com/electron/electron"
@@ -1184,9 +1184,9 @@
       "home": "http://expressjs.com/",
       "code": "https://github.com/strongloop/express/"
     },
-    "release": "4.16.1",
-    "mtime": 1507390010,
-    "db_size": 322413
+    "release": "4.16.3",
+    "mtime": 1538925671,
+    "db_size": 334759
   },
   {
     "name": "Falcon",
@@ -1230,7 +1230,7 @@
   {
     "name": "Fish",
     "slug": "fish~2.7",
-    "type": "fish",
+    "type": "simple",
     "links": {
       "home": "https://fishshell.com/",
       "code": "https://github.com/fish-shell/fish-shell"
@@ -1243,7 +1243,7 @@
   {
     "name": "Fish",
     "slug": "fish~2.6",
-    "type": "fish",
+    "type": "simple",
     "links": {
       "home": "https://fishshell.com/",
       "code": "https://github.com/fish-shell/fish-shell"
@@ -1256,7 +1256,7 @@
   {
     "name": "Fish",
     "slug": "fish~2.5",
-    "type": "fish",
+    "type": "simple",
     "links": {
       "home": "https://fishshell.com/",
       "code": "https://github.com/fish-shell/fish-shell"
@@ -1269,7 +1269,7 @@
   {
     "name": "Fish",
     "slug": "fish~2.4",
-    "type": "fish",
+    "type": "simple",
     "links": {
       "home": "https://fishshell.com/",
       "code": "https://github.com/fish-shell/fish-shell"
@@ -1282,7 +1282,7 @@
   {
     "name": "Fish",
     "slug": "fish~2.3",
-    "type": "fish",
+    "type": "simple",
     "links": {
       "home": "https://fishshell.com/",
       "code": "https://github.com/fish-shell/fish-shell"
@@ -1295,7 +1295,7 @@
   {
     "name": "Fish",
     "slug": "fish~2.2",
-    "type": "fish",
+    "type": "simple",
     "links": {
       "home": "https://fishshell.com/",
       "code": "https://github.com/fish-shell/fish-shell"
@@ -1308,7 +1308,7 @@
   {
     "name": "Flow",
     "slug": "flow",
-    "type": "flow",
+    "type": "simple",
     "links": {
       "home": "https://flow.org/",
       "code": "https://github.com/facebook/flow"
@@ -1320,7 +1320,7 @@
   {
     "name": "GCC",
     "slug": "gcc~7",
-    "type": "gnu",
+    "type": "simple",
     "links": {
       "home": "https://gcc.gnu.org/"
     },
@@ -1332,7 +1332,7 @@
   {
     "name": "GCC",
     "slug": "gcc~7_cpp",
-    "type": "gnu",
+    "type": "simple",
     "links": {
       "home": "https://gcc.gnu.org/"
     },
@@ -1344,7 +1344,7 @@
   {
     "name": "GCC",
     "slug": "gcc~6",
-    "type": "gnu",
+    "type": "simple",
     "links": {
       "home": "https://gcc.gnu.org/"
     },
@@ -1356,7 +1356,7 @@
   {
     "name": "GCC",
     "slug": "gcc~6_cpp",
-    "type": "gnu",
+    "type": "simple",
     "links": {
       "home": "https://gcc.gnu.org/"
     },
@@ -1368,7 +1368,7 @@
   {
     "name": "GCC",
     "slug": "gcc~5",
-    "type": "gnu",
+    "type": "simple",
     "links": {
       "home": "https://gcc.gnu.org/"
     },
@@ -1380,7 +1380,7 @@
   {
     "name": "GCC",
     "slug": "gcc~5_cpp",
-    "type": "gnu",
+    "type": "simple",
     "links": {
       "home": "https://gcc.gnu.org/"
     },
@@ -1392,7 +1392,7 @@
   {
     "name": "GCC",
     "slug": "gcc~4",
-    "type": "gnu",
+    "type": "simple",
     "links": {
       "home": "https://gcc.gnu.org/"
     },
@@ -1404,7 +1404,7 @@
   {
     "name": "GCC",
     "slug": "gcc~4_cpp",
-    "type": "gnu",
+    "type": "simple",
     "links": {
       "home": "https://gcc.gnu.org/"
     },
@@ -1428,7 +1428,7 @@
   {
     "name": "GNU Fortran",
     "slug": "gnu_fortran~7",
-    "type": "gnu",
+    "type": "simple",
     "links": {
       "home": "https://gcc.gnu.org/fortran/"
     },
@@ -1440,7 +1440,7 @@
   {
     "name": "GNU Fortran",
     "slug": "gnu_fortran~6",
-    "type": "gnu",
+    "type": "simple",
     "links": {
       "home": "https://gcc.gnu.org/fortran/"
     },
@@ -1452,7 +1452,7 @@
   {
     "name": "GNU Fortran",
     "slug": "gnu_fortran~5",
-    "type": "gnu",
+    "type": "simple",
     "links": {
       "home": "https://gcc.gnu.org/fortran/"
     },
@@ -1464,7 +1464,7 @@
   {
     "name": "GNU Fortran",
     "slug": "gnu_fortran~4",
-    "type": "gnu",
+    "type": "simple",
     "links": {
       "home": "https://gcc.gnu.org/fortran/"
     },
@@ -1525,7 +1525,7 @@
   {
     "name": "Grunt",
     "slug": "grunt",
-    "type": "grunt",
+    "type": "simple",
     "release": "1.0.1",
     "mtime": 1500740124,
     "db_size": 183508
@@ -1569,7 +1569,7 @@
   {
     "name": "Haxe",
     "slug": "haxe",
-    "type": "haxe",
+    "type": "simple",
     "links": {
       "home": "https://haxe.org",
       "code": "https://github.com/HaxeFoundation/haxe"
@@ -1582,7 +1582,7 @@
   {
     "name": "Haxe",
     "slug": "haxe~cpp",
-    "type": "haxe",
+    "type": "simple",
     "version": "C++",
     "release": "3.4.7",
     "mtime": 1526520811,
@@ -1591,7 +1591,7 @@
   {
     "name": "Haxe",
     "slug": "haxe~cs",
-    "type": "haxe",
+    "type": "simple",
     "version": "C#",
     "release": "3.4.7",
     "mtime": 1526520830,
@@ -1600,7 +1600,7 @@
   {
     "name": "Haxe",
     "slug": "haxe~flash",
-    "type": "haxe",
+    "type": "simple",
     "version": "Flash",
     "release": "3.4.7",
     "mtime": 1526520843,
@@ -1609,7 +1609,7 @@
   {
     "name": "Haxe",
     "slug": "haxe~java",
-    "type": "haxe",
+    "type": "simple",
     "version": "Java",
     "release": "3.4.7",
     "mtime": 1526520859,
@@ -1618,7 +1618,7 @@
   {
     "name": "Haxe",
     "slug": "haxe~javascript",
-    "type": "haxe",
+    "type": "simple",
     "version": "JavaScript",
     "release": "3.4.7",
     "mtime": 1526520906,
@@ -1627,7 +1627,7 @@
   {
     "name": "Haxe",
     "slug": "haxe~neko",
-    "type": "haxe",
+    "type": "simple",
     "version": "Neko",
     "release": "3.4.7",
     "mtime": 1526520909,
@@ -1636,7 +1636,7 @@
   {
     "name": "Haxe",
     "slug": "haxe~php",
-    "type": "haxe",
+    "type": "simple",
     "version": "PHP",
     "release": "3.4.7",
     "mtime": 1526520910,
@@ -1645,7 +1645,7 @@
   {
     "name": "Haxe",
     "slug": "haxe~lua",
-    "type": "haxe",
+    "type": "simple",
     "version": "Lua",
     "release": "3.4.7",
     "mtime": 1526520913,
@@ -1654,7 +1654,7 @@
   {
     "name": "Haxe",
     "slug": "haxe~hashlink",
-    "type": "haxe",
+    "type": "simple",
     "version": "HashLink",
     "release": "3.4.7",
     "mtime": 1526520915,
@@ -1663,7 +1663,7 @@
   {
     "name": "Haxe",
     "slug": "haxe~sys",
-    "type": "haxe",
+    "type": "simple",
     "version": "Sys",
     "release": "3.4.7",
     "mtime": 1526520917,
@@ -1672,7 +1672,7 @@
   {
     "name": "Haxe",
     "slug": "haxe~python",
-    "type": "haxe",
+    "type": "simple",
     "version": "Python",
     "release": "3.4.7",
     "mtime": 1526520922,
@@ -1707,7 +1707,7 @@
   {
     "name": "Immutable.js",
     "slug": "immutable",
-    "type": "immutable",
+    "type": "simple",
     "links": {
       "home": "https://facebook.github.io/immutable-js/",
       "code": "https://github.com/facebook/immutable-js"
@@ -1719,7 +1719,7 @@
   {
     "name": "InfluxData",
     "slug": "influxdata",
-    "type": "influxdata",
+    "type": "simple",
     "links": {
       "home": "https://www.influxdata.com/",
       "code": "https://github.com/influxdata/influxdb"
@@ -1731,7 +1731,7 @@
   {
     "name": "Jasmine",
     "slug": "jasmine",
-    "type": "jasmine",
+    "type": "simple",
     "links": {
       "home": "https://jasmine.github.io/",
       "code": "https://github.com/jasmine/jasmine"
@@ -1762,7 +1762,7 @@
   {
     "name": "Jest",
     "slug": "jest",
-    "type": "jest",
+    "type": "simple",
     "links": {
       "home": "https://facebook.github.io/jest/",
       "code": "https://github.com/facebook/jest"
@@ -1894,6 +1894,19 @@
     "release": "1.2.41",
     "mtime": 1524924945,
     "db_size": 11707614
+  },
+  {
+    "name": "Laravel",
+    "slug": "laravel~5.7",
+    "type": "laravel",
+    "links": {
+      "home": "https://laravel.com/",
+      "code": "https://github.com/laravel/laravel"
+    },
+    "version": "5.7",
+    "release": "5.7.7",
+    "mtime": 1538928383,
+    "db_size": 19082161
   },
   {
     "name": "Laravel",
@@ -2041,7 +2054,7 @@
   {
     "name": "Less",
     "slug": "less",
-    "type": "less",
+    "type": "simple",
     "links": {
       "home": "http://lesscss.org/",
       "code": "https://github.com/less/less.js"
@@ -2065,7 +2078,7 @@
   {
     "name": "lodash",
     "slug": "lodash~4",
-    "type": "lodash",
+    "type": "simple",
     "links": {
       "home": "https://lodash.com/",
       "code": "https://github.com/lodash/lodash/"
@@ -2078,7 +2091,7 @@
   {
     "name": "lodash",
     "slug": "lodash~3",
-    "type": "lodash",
+    "type": "simple",
     "links": {
       "home": "https://lodash.com/",
       "code": "https://github.com/lodash/lodash/"
@@ -2091,7 +2104,7 @@
   {
     "name": "lodash",
     "slug": "lodash~2",
-    "type": "lodash",
+    "type": "simple",
     "links": {
       "home": "https://lodash.com/",
       "code": "https://github.com/lodash/lodash/"
@@ -2143,7 +2156,7 @@
   {
     "name": "Marionette.js",
     "slug": "marionette~4",
-    "type": "marionette",
+    "type": "simple",
     "links": {
       "home": "https://marionettejs.com/",
       "code": "https://github.com/marionettejs/backbone.marionette"
@@ -2156,7 +2169,7 @@
   {
     "name": "Marionette.js",
     "slug": "marionette~3",
-    "type": "marionette",
+    "type": "simple",
     "links": {
       "home": "https://marionettejs.com/",
       "code": "https://github.com/marionettejs/backbone.marionette"
@@ -2169,7 +2182,7 @@
   {
     "name": "Marionette.js",
     "slug": "marionette~2",
-    "type": "marionette",
+    "type": "simple",
     "links": {
       "home": "https://marionettejs.com/",
       "code": "https://github.com/marionettejs/backbone.marionette"
@@ -2182,7 +2195,7 @@
   {
     "name": "Markdown",
     "slug": "markdown",
-    "type": "markdown",
+    "type": "simple",
     "mtime": 1426424874,
     "db_size": 31338
   },
@@ -2267,7 +2280,7 @@
   {
     "name": "Mocha",
     "slug": "mocha",
-    "type": "mocha",
+    "type": "simple",
     "links": {
       "home": "https://mochajs.org/",
       "code": "https://github.com/mochajs/mocha"
@@ -2299,7 +2312,7 @@
   {
     "name": "Mongoose",
     "slug": "mongoose",
-    "type": "mongoose",
+    "type": "simple",
     "links": {
       "home": "http://mongoosejs.com/",
       "code": "https://github.com/Automattic/mongoose"
@@ -2331,7 +2344,7 @@
   {
     "name": "Nim",
     "slug": "nim",
-    "type": "nim",
+    "type": "simple",
     "links": {
       "home": "https://nim-lang.org/",
       "code": "https://github.com/nim-lang/Nim"
@@ -2839,8 +2852,8 @@
     },
     "version": "3.7",
     "release": "3.7.0",
-    "mtime": 1531081977,
-    "db_size": 8368646
+    "mtime": 1538925436,
+    "db_size": 8389930
   },
   {
     "name": "Python",
@@ -2983,7 +2996,7 @@
   {
     "name": "Redux",
     "slug": "redux",
-    "type": "redux",
+    "type": "simple",
     "links": {
       "home": "http://redux.js.org/",
       "code": "https://github.com/reactjs/redux/"
@@ -3007,7 +3020,7 @@
   {
     "name": "RequireJS",
     "slug": "requirejs",
-    "type": "requirejs",
+    "type": "simple",
     "links": {
       "home": "http://requirejs.org/",
       "code": "https://github.com/requirejs/requirejs"
@@ -3204,9 +3217,9 @@
       "home": "https://www.rust-lang.org/",
       "code": "https://github.com/rust-lang/rust"
     },
-    "release": "1.28.0",
-    "mtime": 1534718413,
-    "db_size": 62075516
+    "release": "1.29.1",
+    "mtime": 1538928190,
+    "db_size": 39143447
   },
   {
     "name": "Sass",
@@ -3564,7 +3577,7 @@
   {
     "name": "TypeScript",
     "slug": "typescript",
-    "type": "typescript",
+    "type": "simple",
     "links": {
       "home": "https://www.typescriptlang.org",
       "code": "https://github.com/Microsoft/TypeScript"
@@ -3588,7 +3601,7 @@
   {
     "name": "Vagrant",
     "slug": "vagrant",
-    "type": "vagrant",
+    "type": "simple",
     "links": {
       "home": "https://www.vagrantup.com/",
       "code": "https://github.com/mitchellh/vagrant"
@@ -3626,7 +3639,7 @@
   {
     "name": "Vulkan",
     "slug": "vulkan",
-    "type": "vulkan",
+    "type": "simple",
     "links": {
       "home": "https://www.khronos.org/vulkan/"
     },
@@ -3670,7 +3683,7 @@
   {
     "name": "Yarn",
     "slug": "yarn",
-    "type": "yarn",
+    "type": "simple",
     "links": {
       "home": "https://yarnpkg.com/",
       "code": "https://github.com/yarnpkg/yarn"
